@@ -1,0 +1,42 @@
+[
+   {
+      "id": 3,
+      "marca": "Sernova",
+      "cantidad": 2
+   },
+   {
+      "id": 4,
+      "marca": "Branca",
+      "cantidad": 1
+   },
+   {
+      "id": 5,
+      "marca": "Absolut",
+      "cantidad": 1
+   },
+   {
+      "id": 2,
+      "marca": "Smirnoff",
+      "cantidad": 5
+      },
+   {
+      "id": 1,
+      "marca": "Sernova Saborizado",
+      "cantidad": 4
+      },
+   {
+      "id": 6,
+      "marca": "Black Label",
+      "cantidad": "NO DISPONIBLE"
+   },
+   {
+      "id": 7,
+      "marca": "Smirnoff Saborizado",
+      "cantidad": "NO DISPONIBLE"
+   },
+   {
+      "id": 8,
+      "marca": "Beldevere",
+      "cantidad": "7"
+   }
+]
